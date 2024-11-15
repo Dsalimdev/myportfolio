@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Procurement Analysis",
+        "icon": "https://cdn.vectorstock.com/i/1000x1000/42/75/system-analysis-icon-linear-isolated-vector-34744275.webp"
+    },
+    {
+        "name": "Application Quality Assurance",
+        "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-moubj&psig=AOvVaw0aGfxcVdeFarvUW_BBh1XR&ust=1730178805974000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjCmbyosIkDFQAAAAAdAAAAABAJ"
+    },
+    {
+        "name": "Requirements Alignment",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Strategy_icon.svg"
+    },
+    {
+        "name": "Agile & Scrum Methodologies",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/2/27/Requirements_icon.png"
+    },
+    {
+        "name": "Documentation",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Documentation_icon.svg"
+    },
+    {
+        "name": "Stakeholder & Cross-Division Communication",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c4/API_icon.svg"
+    },
+    {
+        "name": "Laravel Framework",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
+    },
+    {
+        "name": "Project Coordination",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Coordination_icon.svg"
+    },
+    {
+        "name": "Meeting Facilitation & Management",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Database_Icon.svg"
+    },
+    {
+        "name": "User Testing & Feedback",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8a/User_Testing_icon.svg"
+    }
+]
